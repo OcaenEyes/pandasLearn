@@ -1,3 +1,4 @@
 .idea
 .DS_Store
-.DS_Store
+acllmdb
+dataset/aclImdb_v1.tar.gz
